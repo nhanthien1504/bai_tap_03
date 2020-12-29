@@ -61,3 +61,11 @@ Output: "012456789"
 #         del(l[i])
 #         str = ''.join(l)
 # print(str)
+
+'''
+Viết chương trình thay thế tất cả các ký tự giống ký tự đầu tiên của một Chuỗi thành $
+'''
+# str = input('moi nhap chuoi: ')
+# char = str[0]
+# re_pla = str.replace(char,'$')
+# print(re_pla)
